@@ -52,7 +52,7 @@ body {
 
 .main-right {
     display: grid;
-    grid-template-rows: 1.5vh minmax(48.5vh, auto);
+    grid-template-rows: 1.5vh minmax(48.5vh, auto); 
 }
 
 .main-right-top {
