@@ -60,7 +60,7 @@ body {
 
 .main-right-top {
     background-color:chartreuse;
-    height: 3vh;
+    height: 1.5vh;
     white-space: nowrap;
 }
 
@@ -85,7 +85,7 @@ body {
   }
 
 .main-right-bottom {
-    min-height: calc(100% - 3vh);
+    min-height: calc(100% - 1.5vh);
     display: flex;
     flex-direction: row;
 }
@@ -93,14 +93,14 @@ body {
 .main-right-bottom-left {
     background-color:white;
     width: 50vw;
-    min-height: calc(100% - 3vh);
+    min-height: calc(100% - 1.5vh);
     padding: 1%;
 }
 
 .main-right-bottom-right {
     background-color:coral;
     width: 25vw;
-    min-height: calc(100% - 3vh);
+    min-height: calc(100% - 1.5vh);
     padding: 1%;
 }
 
