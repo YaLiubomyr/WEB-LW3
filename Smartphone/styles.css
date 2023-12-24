@@ -52,7 +52,7 @@ body {
 
 .main-right {
     display: grid;
-    grid-template-rows: 3vh minmax(47vh, auto);
+    grid-template-rows: 1.5vh minmax(48.5vh, auto);
 }
 
 .main-right-top {
@@ -96,7 +96,7 @@ body {
 }
 
 .right-big {
-    font: bold 60px "Times New Roman", Times, serif;
+    font: bold 20px "Times New Roman", Times, serif;
     color:cyan;
 }
 
